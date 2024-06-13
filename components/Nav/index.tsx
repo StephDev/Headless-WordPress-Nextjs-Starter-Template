@@ -6,16 +6,16 @@ export const Nav = () => {
       <div className="navbar w-full md:w-3/5 mx-auto border-b-2">
         <div className="flex items-center justify-center pb-4 text-base md:text-xl">
           <Link href="/" className="px-4">
-            Home
+            الرئيسية
           </Link>
           <Link href="#" className="px-4">
-            Blog
+            سياسة
           </Link>
           <Link href="#" className="px-4">
-            About
+            مجتمع
           </Link>
           <Link href="#" className="px-4">
-            Contact
+            رياضة
           </Link>
         </div>
       </div>

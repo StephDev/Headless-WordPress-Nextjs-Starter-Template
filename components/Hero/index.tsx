@@ -5,11 +5,10 @@ export const Hero = () => {
     <section className="container mx-auto py-12 text-center border-b">
       <div>
         <h1 className="text-2xl md:text-4xl">
-          Hey, <strong>welcome to {"Jeffrey's"} blog</strong>. See my thoughts,
-          stories and ideas.
+          الصفحة الرئيسية للموقع الإلكتروني بلبريس
         </h1>
         <p className="my-6 text-lg">
-          Follow me on{" "}
+          Par Stoph{" "}
           <Link
             href="https://twitter.com/JeffreySunny1"
             target="_blank"
@@ -18,7 +17,7 @@ export const Hero = () => {
           >
             Twitter
           </Link>
-          .
+          
         </p>
         <p className="text-center">😎😎😎</p>
       </div>
